@@ -1,0 +1,9 @@
+{
+  "name": "AUTS",
+  "symbol": "AUTS",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "AUTS Autism Hero Token",
+  "website": "https://x.com/AutisHero",
+  "explorer": "https://bscscan.com/token/0x89F3bf46Ff227dd01800A034804aC84CC654abAe"
+}
