@@ -1,0 +1,11 @@
+{
+  "name": "AUTS Autism Hero Token",
+  "symbol": "AUTS",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Token solidário para apoiar terapias de crianças autistas.",
+  "website": "https://x.com/AUTSAutismHero",
+  "explorer": "https://bscscan.com/token/0x89F3bf46Ff227dd01800A034804aC84CC654abAe",
+  "status": "active",
+  "id": "0x89F3bf46Ff227dd01800A034804aC84CC654abAe"
+}
